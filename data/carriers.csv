@@ -1,0 +1,5 @@
+carrier_id,carrier_name,service_type
+CR-1,SwiftLine,Standard
+CR-2,BlueArrow,Premium
+CR-3,RapidRoute,Standard
+CR-4,EcoExpress,Economy

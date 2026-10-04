@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,region,daily_capacity
+WH-BLR,Bengaluru Hub,South,900
+WH-MUM,Mumbai Hub,West,1100
+WH-DEL,Delhi Hub,North,1000
+WH-HYD,Hyderabad Hub,South,700
+WH-KOL,Kolkata Hub,East,600
